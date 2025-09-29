@@ -44,7 +44,7 @@ const Home: React.FC = () => {
               <div className="rounded-2xl bg-white/15 px-4 py-2 text-xl font-semibold text-white shadow-inner shadow-white/20 backdrop-blur-sm">AESPA</div>
               <div>
                 <p className="text-sm uppercase tracking-[0.3em] text-slate-300">Music Platform</p>
-                <h1 className="text-3xl font-semibold text-white md:text-4xl">엣플리</h1>
+                <h1 className="text-3xl font-semibold text-white md:text-4xl"><span className="ae">Æ</span>PLI</h1>
               </div>
             </div>
             <nav className="flex flex-wrap gap-3 text-sm font-medium text-slate-200">

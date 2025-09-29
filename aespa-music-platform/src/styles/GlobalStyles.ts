@@ -14,6 +14,14 @@ const GlobalStyle = createGlobalStyle`
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
   }
+
+  .ae {
+    display: inline-block;
+    background: linear-gradient(135deg, #f472b6 10%, #c084fc 50%, #60a5fa 90%);
+    -webkit-background-clip: text;
+    color: transparent;
+    letter-spacing: 0.05em;
+  }
 `;
 
 export default GlobalStyle;

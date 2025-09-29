@@ -1,8 +1,8 @@
 import type { Metadata } from 'next';
-import { Gowun_Dodum, Jua } from 'next/font/google';
+import { Gowun_Dodum } from 'next/font/google';
 import './globals.css';
 
-const jua = Jua({
+const gowunDodum = Gowun_Dodum({
   weight: '400',
   subsets: ['latin'],
 });
@@ -19,7 +19,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ko">
-      <body className={`${jua.className} antialiased`}>
+      <body className={`${gowunDodum.className} antialiased`}>
         {children}
       </body>
     </html>
