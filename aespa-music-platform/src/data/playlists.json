@@ -1,0 +1,50 @@
+[
+    {
+      "id": "1",
+      "name": "Top Hits",
+      "songs": [
+        { "id": "1" },
+        { "id": "2" },
+        { "id": "3" }
+      ],
+      "thumbnail": "https://example.com/playlist1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Chill Vibes",
+      "songs": [
+        { "id": "4" },
+        { "id": "5" }
+      ],
+      "thumbnail": "https://example.com/playlist2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Workout Mix",
+      "songs": [
+        { "id": "1" },
+        { "id": "3" },
+        { "id": "5" }
+      ],
+      "thumbnail": "https://example.com/playlist3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Party Anthems",
+      "songs": [
+        { "id": "2" },
+        { "id": "4" }
+      ],
+      "thumbnail": "https://example.com/playlist4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Feel Good",
+      "songs": [
+        { "id": "1" },
+        { "id": "2" },
+        { "id": "5" }
+      ],
+      "thumbnail": "https://example.com/playlist5.jpg"
+    }
+  ]

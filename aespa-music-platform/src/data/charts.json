@@ -1,0 +1,37 @@
+{
+    "melon": [
+      { "title": "Next Level", "rank": 1 },
+      { "title": "Black Mamba", "rank": 2 },
+      { "title": "Savage", "rank": 3 },
+      { "title": "Forever", "rank": 4 },
+      { "title": "Illusion", "rank": 5 }
+    ],
+    "genie": [
+      { "title": "Savage", "rank": 1 },
+      { "title": "Next Level", "rank": 2 },
+      { "title": "Black Mamba", "rank": 3 },
+      { "title": "Illusion", "rank": 4 },
+      { "title": "Forever", "rank": 5 }
+    ],
+    "bugs": [
+      { "title": "Black Mamba", "rank": 1 },
+      { "title": "Next Level", "rank": 2 },
+      { "title": "Savage", "rank": 3 },
+      { "title": "Illusion", "rank": 4 },
+      { "title": "Forever", "rank": 5 }
+    ],
+    "flo": [
+      { "title": "Forever", "rank": 1 },
+      { "title": "Next Level", "rank": 2 },
+      { "title": "Savage", "rank": 3 },
+      { "title": "Black Mamba", "rank": 4 },
+      { "title": "Illusion", "rank": 5 }
+    ],
+    "appleMusic": [
+      { "title": "Illusion", "rank": 1 },
+      { "title": "Next Level", "rank": 2 },
+      { "title": "Savage", "rank": 3 },
+      { "title": "Black Mamba", "rank": 4 },
+      { "title": "Forever", "rank": 5 }
+    ]
+  }
